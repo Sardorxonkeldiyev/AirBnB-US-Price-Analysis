@@ -2,6 +2,10 @@
 
 # AirBnB Data Analysis Project - US Housing Market 🏠📊
 
+## Data Source :
+
+https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+
 ## Project Overview
 This project presents a comprehensive data visualization and analysis of the US AirBnB market, focusing on rental prices, seasonality, and property characteristics. The analysis was performed at a granular level, specifically targeting **Zip Code** distributions to identify high-value areas and market trends.
 
