@@ -1,3 +1,5 @@
+<img width="1368" height="388" alt="Desktop_260511_1222" src="https://github.com/user-attachments/assets/94b78910-1c7b-4669-b9a0-9375f5b6d2dc" />
+
 # AirBnB Data Analysis Project - US Housing Market 🏠📊
 
 ## Project Overview
