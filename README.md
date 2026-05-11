@@ -20,17 +20,6 @@ The Tableau workbook consists of several detailed visualizations, including:
 * **Microsoft Excel** - For initial data cleaning, formatting, and preparation.
 * **Data Analysis Techniques** - Aggregations, calculated fields, and spatial joining.
 
-## Visualizations
-*(Note: Replace the placeholder links below with your actual uploaded image links on GitHub)*
-
-### 1. Main Dashboard Overview
-![Main Dashboard](images/Desktop_260511_1222.jpg)
-
-### 2. Price Distribution by Bedrooms
-![Bedroom Analysis](images/Desktop_260511_1223.jpg)
-
-### 3. Listing Counts and Yearly Trends
-![Trends Analysis](images/Desktop_260511_1224.jpg)
 
 ## Interactive Demo
 You can explore the full interactive dashboard on Tableau Public here:
